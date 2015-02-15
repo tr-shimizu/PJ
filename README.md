@@ -1,2 +1,1 @@
-# PJ
-# PJ2015
+# This is a program for getting Wicedsende data via intel edison
