@@ -1,1 +1,1 @@
-# This is a program for getting Wicedsende data via intel edison
+# This is a test program
